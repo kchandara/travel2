@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_686957_travel_bo.trb_user_user" name="x_686957_travel_bo.trb_user_user">18e62fbfdb37d110b846ce4e139619ad</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-23 10:15:38</sys_created_on>
+        <sys_id>dce62fbfdb37d110b846ce4e139619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>18e62fbfdb37d110b846ce4e139619ad</sys_name>
+        <sys_package display_value="Travel booking" source="x_686957_travel_bo">66f16de3dbbf5110b846ce4e13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel booking">66f16de3dbbf5110b846ce4e13961982</sys_scope>
+        <sys_update_name>sys_embedded_help_role_dce62fbfdb37d110b846ce4e139619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-23 10:15:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
