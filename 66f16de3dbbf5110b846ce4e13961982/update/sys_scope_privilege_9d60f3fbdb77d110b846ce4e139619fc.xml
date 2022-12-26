@@ -7,14 +7,11 @@
         <sys_created_by>k.chandana</sys_created_by>
         <sys_created_on>2022-12-23 10:57:12</sys_created_on>
         <sys_id>9d60f3fbdb77d110b846ce4e139619fc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>GlideRecord.insert</sys_name>
         <sys_package display_value="Travel booking" source="x_686957_travel_bo">66f16de3dbbf5110b846ce4e13961982</sys_package>
         <sys_policy/>
         <sys_scope display_value="Travel booking">66f16de3dbbf5110b846ce4e13961982</sys_scope>
         <sys_update_name>sys_scope_privilege_9d60f3fbdb77d110b846ce4e139619fc</sys_update_name>
-        <sys_updated_by>k.chandana</sys_updated_by>
-        <sys_updated_on>2022-12-23 10:57:12</sys_updated_on>
         <target_name>GlideRecord.insert</target_name>
         <target_scope display_value="Global">global</target_scope>
         <target_type>scriptable</target_type>

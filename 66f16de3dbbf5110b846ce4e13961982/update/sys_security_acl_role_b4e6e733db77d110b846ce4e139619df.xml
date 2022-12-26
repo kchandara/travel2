@@ -4,15 +4,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-23 10:15:39</sys_created_on>
         <sys_id>b4e6e733db77d110b846ce4e139619df</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_686957_travel_bo_trb_user.x_686957_travel_bo.trb_user_user</sys_name>
         <sys_package display_value="Travel booking" source="x_686957_travel_bo">66f16de3dbbf5110b846ce4e13961982</sys_package>
         <sys_policy/>
         <sys_scope display_value="Travel booking">66f16de3dbbf5110b846ce4e13961982</sys_scope>
         <sys_security_acl display_value="x_686957_travel_bo_trb_user">f4e6e733db77d110b846ce4e139619d0</sys_security_acl>
         <sys_update_name>sys_security_acl_role_b4e6e733db77d110b846ce4e139619df</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-12-23 10:15:39</sys_updated_on>
         <sys_user_role display_value="x_686957_travel_bo.trb_user_user" name="x_686957_travel_bo.trb_user_user">18e62fbfdb37d110b846ce4e139619ad</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>

@@ -39,15 +39,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>31a82bb3db77d110b846ce4e139619da</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>x_686957_travel_bo_trb_user</sys_name>
             <sys_overrides/>
             <sys_package display_value="Travel booking" source="x_686957_travel_bo">66f16de3dbbf5110b846ce4e13961982</sys_package>
             <sys_policy/>
             <sys_scope display_value="Travel booking">66f16de3dbbf5110b846ce4e13961982</sys_scope>
             <sys_update_name>sys_ui_section_31a82bb3db77d110b846ce4e139619da</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-23 10:23:22</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>
